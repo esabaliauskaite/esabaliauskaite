@@ -38,7 +38,7 @@ In addition to my professional pursuits, I have a love for learning and a divers
   
 </td><td valign="top" width="50%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esabaliauskaite&theme=dark&card_width=500px&exclude_repo=tiktaktoe,calculator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esabaliauskaite&theme=dark&card_width=500px&exclude_repo=tiktaktoe,calculator)](https://github.com/anuraghazra/github-readme-stats)
   
 </tr></tr></table> 
 <hr>
