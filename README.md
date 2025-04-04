@@ -8,7 +8,6 @@ In addition to my professional pursuits, I have a love for learning and a divers
 <div align="center">
 <a href="https://www.linkedin.com/in/eglesabaliauskaite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://www.artstation.com/sables98"><img src="https://img.shields.io/badge/ArtStation-556868?style=for-the-badge&logo=artstation&logoColor=white" /></a>&nbsp;
-<a href="https://eglesabaliauskaite.myportfolio.com/"><img src="https://img.shields.io/badge/Portfolio-239120?style=for-the-badge" /></a>&nbsp;
 </div>
 <hr>
 <!--- Here are some ideas to get you started:
