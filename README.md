@@ -18,10 +18,15 @@ In addition to my professional pursuits, I have a love for learning and a divers
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+
 <table><tr><td valign="top" width="50%">
+<!---
+<h2 align="center"></h2>
+-->
+  
+[![roadmap.sh](https://roadmap.sh/card/wide/691dd1084f5f4db6a09d1460?variant=dark&roadmaps=data-analyst%2Cai-data-scientist)](https://roadmap.sh)
 
-<h2 align="center">Languages and Tools</h2>
-
+  <!--- 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/SCSS-239120?&style=for-the-badge&logo=SCSS&logoColor=white" />
@@ -31,9 +36,10 @@ In addition to my professional pursuits, I have a love for learning and a divers
 <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  
+ -->
+ 
 </td><td valign="top" width="50%">
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esabaliauskaite&theme=dark&card_width=500px&exclude_repo=tiktaktoe,calculator)](https://github.com/anuraghazra/github-readme-stats)
   
 </tr></tr></table> 
