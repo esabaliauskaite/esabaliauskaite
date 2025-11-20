@@ -1,8 +1,7 @@
 <div align="center"><b> Hi there 👋</b></div>
 <br>
 <div align="center">
-I'm Egle. Enthusiastic Frontend Developer with a passion for web development and a focus on Angular. Proficient in HTML, CSS, JavaScript, and Angular, with a strong emphasis on building responsive and user-friendly web applications.
-In addition to my professional pursuits, I have a love for learning and a diverse range of interests, including reading, 3D modeling, game development, gaming, mixed/extended reality (MR/XR), WebGL, and UX/UI. 
+I’m Egle, an Enthusiastic Frontend Developer with 4+ years of experience in frontend development and software engineering. I enjoy solving real problems with clean, thoughtful design and have a growing interest in data science and data visualization. I like exploring new tools, learning continuously, and building things that are both useful and intuitive.
 </div>
 <br>
 <div align="center">
