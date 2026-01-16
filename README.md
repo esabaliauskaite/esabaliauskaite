@@ -21,7 +21,7 @@ I’m Egle, an Enthusiastic Frontend Developer with 4+ years of experience in fr
 <!---
 <h2 align="center"></h2>
 -->
-    <!--- [![roadmap.sh](https://roadmap.sh/card/wide/691dd1084f5f4db6a09d1460?variant=dark&roadmaps=%2Cdata-analyst%2Cai-data-scientist)](https://roadmap.sh)-->
+ <!--- [![roadmap.sh](https://roadmap.sh/card/wide/691dd1084f5f4db6a09d1460?variant=dark&roadmaps=%2Cdata-analyst%2Cai-data-scientist)](https://roadmap.sh)-->
   <!--- 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
