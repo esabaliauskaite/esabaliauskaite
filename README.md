@@ -1,4 +1,4 @@
-<div align="center"><b> Hi there 👋</b></div>
+<!---<div align="center"><b> Hi there 👋</b></div>
 <br>
 <div align="center">
 I’m Egle, an Enthusiastic Frontend Developer with 4+ years of experience in frontend development and software engineering. I enjoy solving real problems with clean, thoughtful design and have a growing interest in data science and data visualization. I like exploring new tools, learning continuously, and building things that are both useful and intuitive.
@@ -17,13 +17,11 @@ I’m Egle, an Enthusiastic Frontend Developer with 4+ years of experience in fr
 - ⚡ Fun fact: ...
 -->
 
-<table><tr><td valign="top" width="50%">
+<!---<table><tr><td valign="top" width="50%">
 <!---
 <h2 align="center"></h2>
 -->
-  
-[![roadmap.sh](https://roadmap.sh/card/wide/691dd1084f5f4db6a09d1460?variant=dark&roadmaps=%2Cdata-analyst%2Cai-data-scientist)](https://roadmap.sh)
-
+    <!--- [![roadmap.sh](https://roadmap.sh/card/wide/691dd1084f5f4db6a09d1460?variant=dark&roadmaps=%2Cdata-analyst%2Cai-data-scientist)](https://roadmap.sh)-->
   <!--- 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,7 +32,7 @@ I’m Egle, an Enthusiastic Frontend Developer with 4+ years of experience in fr
 <img src="https://img.shields.io/badge/Postman-F24E1E?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
- -->
+
  
 </td><td valign="top" width="50%">
 
@@ -44,3 +42,4 @@ I’m Egle, an Enthusiastic Frontend Developer with 4+ years of experience in fr
 <hr>
 <div align="center"><b> Some of my favorite projects 👇</b></div>
 <hr>
+ -->
