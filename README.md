@@ -2,7 +2,7 @@
 
 # Eglė Sabaliauskaitė
 
-**Software developer transitioning into Data Science & ML**
+**Software Developer transitioning into Data Science & ML**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/eglesabaliauskaite/))
 
