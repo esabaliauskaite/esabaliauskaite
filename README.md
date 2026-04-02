@@ -1,4 +1,48 @@
-<!---<div align="center"><b> Hi there 👋</b></div>
+<div align="center">
+
+# Eglė Sabaliauskaitė
+
+**Software developer transitioning into Data Science & ML**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/eglesabaliauskaite/))
+
+</div>
+
+---
+
+### Building
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-grey?style=flat-square)
+
+### Already have
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### Currently working on
+
+- Prediction pipelines — Scikit-learn, Pandas, Seaborn
+
+### Background
+
+- 4+ years professional development: Angular, React, TypeScript, AR applications
+- M.Sc. Interactive Media — FH Oberösterreich, Campus Hagenberg
+
+<!---
+
+📫 esabaliauskaite6@gmail.com
+🔗 linkedin.com/in/yourhandle<!---<div align="center"><b> Hi there 👋</b></div>
 <br>
 <div align="center">
 I’m Egle, an Enthusiastic Frontend Developer with 4+ years of experience in frontend development and software engineering. I enjoy solving real problems with clean, thoughtful design and have a growing interest in data science and data visualization. I like exploring new tools, learning continuously, and building things that are both useful and intuitive.
